@@ -2,4 +2,4 @@ markdown: kramdown
 baseurl: /ding.github.io
 exclude: ['.git']
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-leap-day
